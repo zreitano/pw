@@ -1,0 +1,31 @@
+.navbar{
+	margin-bottom: 0 !important;
+	border-radius: 0px !important;
+	background-color: #fff !important;
+	border-bottom: 5px solid #00c757 !important;
+}
+
+.navbar-header {
+  width: 100%;
+}
+
+.navbar-header p {
+  line-height: 65px;
+  margin-bottom: 0px;
+}
+
+h1 {
+	text-align: center;
+	color: #FFF488 !important;
+}
+
+h2 {
+	color: #fff !important;
+}
+
+/*Bootstrap Mobile Hack */
+.wrapper {
+	background-color: #424A81 ;
+}
+
+
