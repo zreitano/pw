@@ -12,6 +12,7 @@
 .navbar-header p {
   line-height: 65px;
   margin-bottom: 0px;
+ 
 }
 
 h1 {
@@ -21,6 +22,12 @@ h1 {
 
 h2 {
 	
+}
+
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-left: 0px !important;
+  	margin-right: 0px !important;
 }
 
 /*Bootstrap Mobile Hack */
