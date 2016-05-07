@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-	color: #fff !important;
+	
 }
 
 /*Bootstrap Mobile Hack */
@@ -31,5 +31,9 @@ h2 {
 .row {
 	margin-left: 0px !important;
 	margin-right: 0px !important;
+}
+
+.no-padding {
+	padding: 0px !important;
 }
 

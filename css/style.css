@@ -5,6 +5,12 @@
  	font-family: 'Nunito', sans-serif !important;
  }
 
+#content-wrapper {
+	width: 100%;
+	max-width: 500px;
+	margin: auto !important;
+}
+
 #site-title {
 	text-align: center;
 	font-size: 24px;
@@ -17,6 +23,19 @@
 	border-bottom-left-radius: 4px;
 }
 
+.title {
+	margin-bottom: 0px !important;
+}
+
+.person {
+	padding: 10px !important;
+}
+
+.person-img{
+	width: 100%;
+	border-radius: 5px;
+}
+
 #logo-wrapper {
 	max-width: 500px;
 	margin: auto !important;
@@ -24,8 +43,13 @@
 
 .section {
 	font-size: 16px;
+	margin-bottom: 10px;
 }
 
 .social-logo {
 	width: 50px;
+}
+
+.spacer {
+	height: 30px;
 }
